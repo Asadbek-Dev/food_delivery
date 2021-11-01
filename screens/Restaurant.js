@@ -4,12 +4,12 @@ import{
     Text
 } from 'react-native';
 
-const Reastaurant = () => {
+const Restaurant = () => {
     return (
         <View>
-            <Text>Reastaurant</Text>
+            <Text>Restaurant</Text>
         </View>
     )
 }
 
-export default Reastaurant
+export default Restaurant

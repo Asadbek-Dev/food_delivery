@@ -1,9 +1,9 @@
 import Home from "./Home";
-import Reastaurant from "./Restaurant";
+import Restaurant from "./Restaurant";
 import OrderDelivery from "./OrderDelivery";
 
 export {
     Home,
-    Reastaurant,
+    Restaurant,
     OrderDelivery
 }

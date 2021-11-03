@@ -13,6 +13,7 @@ const Tab=createBottomTabNavigator();
 
 const Tabs=()=>{
     return (
+
         <Tab.Navigator>
             <Tab.Screen
                 name='Home'
@@ -25,12 +26,13 @@ const Tabs=()=>{
                             style={{
                                 width:25,
                                 height:25,
-                                tintColor:focused ? COLORS.primary
+                                tintColor:focused ? COLORS.primary:COLORS.darkgray
                             }}
                         />
                     )
                 }}
             />
         </Tab.Navigator>
+
     )
 }

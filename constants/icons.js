@@ -12,11 +12,11 @@ export const list=require("../assets/icons/list.png");
 export const location=require("../assets/icons/location.png");
 export const master_card=require("../assets/icons/mastercard.png");
 export const nearby=require("../assets/icons/nearby.png");
-export const noodly=require("../assets/icons/noodly.png");
+export const noodle=require("../assets/icons/noodle.png");
 export const pin=require("../assets/icons/pin.png");
 export const pizza=require("../assets/icons/pizza.png");
 export const red_pin=require("../assets/icons/red-pin.png");
-export const rice_bowl=require("../assets/icons/rice_bowl.png");
+export const rice_bowl=require("../assets/icons/rice-bowl.png");
 export const salad=require("../assets/icons/salad.png");
 export const search=require("../assets/icons/search.png");
 export const basket=require("../assets/icons/shopping-basket.png");
@@ -39,7 +39,7 @@ export default {
     location,
     master_card,
     nearby,
-    noodly,
+    noodle,
     pin,
     pizza,
     red_pin,
